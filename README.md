@@ -30,7 +30,7 @@
 
   <h2>Authors</h2>
  
-    Iman Farahbakhsh
+    <li>Iman Farahbakhsh</li>
   
 
   <h2>Citation</h2>
