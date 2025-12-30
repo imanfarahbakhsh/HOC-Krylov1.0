@@ -31,7 +31,6 @@
   <h2>Authors</h2>
   <ul>
     <li>Iman Farahbakhsh</li>
-    <li>Iman Farahbakhsh</li>
   <ul>
 
   <h2>Citation</h2>
