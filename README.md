@@ -29,9 +29,11 @@
   </p>
 
   <h2>Authors</h2>
-  <ul>
-    <li>Iman Farahbakhsh</li>
-  </ul>
+ 
+  <p>
+ Iman Farahbakhsh
+  </p>
+ 
 
   <h2>Citation</h2>
   <p>
